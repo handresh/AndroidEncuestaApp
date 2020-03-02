@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Encuesta</string>
+    <string name="tv1">ENCUESTA</string>
+    <string name="rb1">Deportes</string>
+    <string name="rb2">Arte</string>
+    <string name="rb3">Cine</string>
+    <string name="tv2">Cantidad de Personas</string>
+    <string name="e1">Cantidad</string>
+    <string name="btn1">PREGUNTAR</string>
+    <string name="tv3">Pregunta</string>
+    <string name="rb4">Respuesta 1</string>
+    <string name="rb5">Respuesta 2</string>
+    <string name="rb6">Respuesta 3</string>
+    <string name="rb7">Respuesta 4</string>
+    <string name="rb8">Respuesta 5</string>
+    <string name="btn2">ESTADISTICAS</string>
+    <string name="btn3">ENVIAR</string>
+    <string name="tv4">Resultados Estadisticas</string>
+    <string name="rb9">Transporte</string>
+    <string name="rb10">Comida</string>
+</resources>
