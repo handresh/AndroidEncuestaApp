@@ -85,6 +85,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+
     public void preguntasDeportes(View view, int i){
 
         rb4.setText("Ciclismo");
